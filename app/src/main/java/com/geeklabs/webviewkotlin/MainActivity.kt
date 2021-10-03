@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
     private var progress: Progress? = null
     private var isLoaded: Boolean = false
     private var doubleBackToExitPressedOnce = false
-    private var webURL = "http://nicebohum.com/subin/ambohum.html" // Change it with your URL
+    private var webURL = "http://nicebohum.com/subin/ambohum.htm" // Change it with your URL
 
     @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
